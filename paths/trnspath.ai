@@ -1,0 +1,62 @@
+[Icon]
+Icon=paths/trnspath/icon/icon
+
+[Member]
+paths
+
+[Characteristics/Integers]
+cPurchaseCost=69
+cMaterial=0
+cNameID = 19000
+cHelpID = 19000
+cFootprintX = 2
+cFootprintY = 2
+cHabitat = 9414
+
+[Animations]
+idle = idle
+
+[EstheticBonus]
+v = 9503
+v = 20
+v = 9504
+v = 20
+v = 9505
+v = 20
+v = 9506
+v = 20
+
+[Shapes]
+shape=5
+shape=20
+shape=65
+shape=80
+shape=100
+shape=101
+shape=102
+shape=103
+shape=104
+shape=105
+shape=106
+shape=107
+shape=108
+shape=109
+shape=110
+shape=111
+shape=112
+shape=113
+shape=114
+shape=115
+shape=116
+
+[defaultLCID]
+LCID = 1033
+
+[Global]
+Type = trnspath
+
+[1033]
+cGeneralInfoFileName = objects/trnspath/texts/1033.txt
+cLongHelp = Purchase a Transgender Pride Path.  Guests will support trans rights.
+cName = Transgender Pride Path
+cTheString = the Transgender Pride Path
