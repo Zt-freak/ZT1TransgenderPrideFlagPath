@@ -10,7 +10,7 @@ Each tile costs $69.
 * [Setup](#setup)
   * [Requirements](#requirements)
   * [Conflicts](#conflicts)
-  * [Installation](#installation)
+  * [Installation & Usage](#installation-and-usage)
 * [Notes/FAQ](#notesfaq)
 * [Contributing](#contributing)
 * [License](#license)
@@ -33,7 +33,7 @@ under Wine in both the base game and Complete Collection.
 
 This mod has no known conflicts.
 
-### Installation
+### Installation and Usage
 
 1. Fetch the latest `ztd` file from the
    [releases page](https://github.com/Zt-freak/ZT1TransgenderPrideFlagPath/releases)
