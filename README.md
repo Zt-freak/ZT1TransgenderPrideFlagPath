@@ -3,7 +3,7 @@
 A simple mod that adds a transgender pride flag path to Zoo Tycoon.
 Each tile costs $69.
 
-![Zoo Tycoon screenshot of a trans pride path spelling out "NICE"](imgs/01_nice.png)
+![Zoo Tycoon screenshot of a trans pride path spelling out "NICE"](imgs/01_nice.png?raw=true)
 
 ### Table of Contents
 
@@ -42,7 +42,7 @@ This mod has no known conflicts.
 3. Launch the game and open a scenario or save
 4. Under Construction > Zoo Paths, there should now be a "Transgender Pride
    Path" option
-   ![Transgender Pride Path under the Construction > Zoo Paths menu](imgs/03_menu_location.png)
+   ![Transgender Pride Path under the Construction > Zoo Paths menu](imgs/03_menu_location.png?raw=true)
 
 ## Notes/FAQ
 
@@ -63,7 +63,7 @@ as expected.
 > > this version of Zoo Tycoon, please check the box below to prevent this
 > > message from appearing again.
 
-> ![Screenshot of Zoo Tycoon Complete Collection main menu with the message written above displayed](imgs/04_cc_message.png)
+> ![Screenshot of Zoo Tycoon Complete Collection main menu with the message written above displayed](imgs/04_cc_message.png?raw=true)
 
 You can check the "Don't show this message again" box.
 This message has only been observed in the Complete Collection,
@@ -84,7 +84,7 @@ new path tiles to replace them.
 
 Yes, it does.
 
-![Screenshot of Zoo Tycoon with trans pride flags spelling out "TRANS RIGHTS"](imgs/02_trans_rights.png)
+![Screenshot of Zoo Tycoon with trans pride flags spelling out "TRANS RIGHTS"](imgs/02_trans_rights.png?raw=true)
 
 ## Contributing
 
