@@ -15,7 +15,6 @@ Each tile costs $69.
 * [Contributing](#contributing)
 * [License](#license)
 
-
 ## Setup
 
 ### Requirements
