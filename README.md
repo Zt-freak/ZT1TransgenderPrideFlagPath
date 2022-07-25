@@ -42,7 +42,8 @@ This mod has no known conflicts.
 3. Launch the game and open a scenario or save
 4. Under Construction > Zoo Paths, there should now be a "Transgender Pride
    Path" option
-   ![Transgender Pride Path under the Construction > Zoo Paths menu](imgs/03_menu_location.png?raw=true)
+
+![Transgender Pride Path under the Construction > Zoo Paths menu](imgs/03_menu_location.png?raw=true)
 
 ## Notes/FAQ
 
